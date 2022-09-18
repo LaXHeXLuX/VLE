@@ -1,0 +1,65 @@
+.lnr {
+    display: inline-block;
+    fill: currentColor;
+    width: 1em;
+    height: 1em;
+    vertical-align: -0.05em;
+    stroke-width: 2;
+}
+
+.lnr-cart {
+    width: 1.5em;
+    height: 1.5em;
+}
+
+.lnr-magnifier {
+    color: #000000;   
+}
+
+.navbar-nav li {
+    margin-right: 3em;
+}
+
+section {
+    margin-top: 40px;
+}
+
+.h {
+    text-align: center;
+}
+
+.card-body {
+    align-content: center;
+}
+
+footer {
+    margin-top: 60px;
+    padding: 5em;
+}
+
+.kontakt {
+    float: left;
+    margin-right: 20px;
+    margin-bottom: auto;
+}
+
+form {
+    margin: 10px;
+}
+
+.meist {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.card-header {
+    background-color: rgb(231, 180, 194);
+}
+
+.card-body {
+    background-color: rgb(255, 203, 203);
+}
+
+.btn-link {
+    color: #000000;
+}
